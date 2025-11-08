@@ -19,7 +19,7 @@ Se evaluaron los siguientes aspectos:
 ## 🗂️ Estructura del Proyecto
 
 ```bash
----
+
 alura_store_project/
 │
 ├── base-de-datos-challenge1=latam/
@@ -41,7 +41,7 @@ alura_store_project/
 │
 ├── README.md
 └── requirements.txt
-
+```
 
 **Descripción:**
 - `data/` → Contiene los datasets CSV de cada tienda.  
