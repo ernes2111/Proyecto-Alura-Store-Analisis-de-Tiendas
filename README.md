@@ -20,7 +20,7 @@ Se evaluaron los siguientes aspectos:
 
 ```bash
 
-alura_store_project/
+Proyecto-Alura-Store-Analisis-de-Tiendas/
 │
 ├── base-de-datos-challenge1=latam/
 │ ├── tienda_1.csv
