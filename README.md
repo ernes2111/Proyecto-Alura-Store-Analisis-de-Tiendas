@@ -18,7 +18,7 @@ Se evaluaron los siguientes aspectos:
 
 ## 🗂️ Estructura del Proyecto
 
-
+```bash
 ---
 alura_store_project/
 │
@@ -37,8 +37,7 @@ alura_store_project/
 │ ├── calificaciones_promedio.png
 │ ├── productos_top_bottom.png
 │ ├── costo_envio_promedio.png
-│ └── mapa_ventas.png
-    
+│ └── mapa_ventas.png   
 │
 ├── README.md
 └── requirements.txt
