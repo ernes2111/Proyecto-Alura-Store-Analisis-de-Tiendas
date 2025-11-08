@@ -22,7 +22,7 @@ Se evaluaron los siguientes aspectos:
 
 Proyecto-Alura-Store-Analisis-de-Tiendas/
 │
-├── base-de-datos-challenge1=latam/
+├── base-de-datos-challenge1_latam/
 │ ├── tienda_1.csv
 │ ├── tienda_2.csv
 │ ├── tienda_3.csv
